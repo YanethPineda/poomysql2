@@ -1,0 +1,19 @@
+﻿  ConexionBD.cpp
+  Marcas.cpp
+C:\Users\cleim\OneDrive\Escritorio\Tercer Semestre\PROGRAMACION\visualstudiotarea\mysql_empreproduc\mysql_empreproduc\Marcas.h(5,10): fatal error C1083: No se puede abrir el archivo incluir: 'Productos.cpp': No such file or directory
+  mysql_empreproduc.cpp
+C:\Users\cleim\OneDrive\Escritorio\Tercer Semestre\PROGRAMACION\visualstudiotarea\mysql_empreproduc\mysql_empreproduc\mysql_empreproduc.cpp(11,6): error C2065: 'conectar': identificador no declarado
+C:\Users\cleim\OneDrive\Escritorio\Tercer Semestre\PROGRAMACION\visualstudiotarea\mysql_empreproduc\mysql_empreproduc\mysql_empreproduc.cpp(18,26): error C2065: 'conectar': identificador no declarado
+C:\Users\cleim\OneDrive\Escritorio\Tercer Semestre\PROGRAMACION\visualstudiotarea\mysql_empreproduc\mysql_empreproduc\mysql_empreproduc.cpp(18,14): error C3861: 'mysql_query': no se encontró el identificador
+C:\Users\cleim\OneDrive\Escritorio\Tercer Semestre\PROGRAMACION\visualstudiotarea\mysql_empreproduc\mysql_empreproduc\mysql_empreproduc.cpp(28,26): error C2065: 'conectar': identificador no declarado
+C:\Users\cleim\OneDrive\Escritorio\Tercer Semestre\PROGRAMACION\visualstudiotarea\mysql_empreproduc\mysql_empreproduc\mysql_empreproduc.cpp(28,14): error C3861: 'mysql_query': no se encontró el identificador
+C:\Users\cleim\OneDrive\Escritorio\Tercer Semestre\PROGRAMACION\visualstudiotarea\mysql_empreproduc\mysql_empreproduc\mysql_empreproduc.cpp(29,3): error C2065: 'resultado': identificador no declarado
+C:\Users\cleim\OneDrive\Escritorio\Tercer Semestre\PROGRAMACION\visualstudiotarea\mysql_empreproduc\mysql_empreproduc\mysql_empreproduc.cpp(29,34): error C2065: 'conectar': identificador no declarado
+C:\Users\cleim\OneDrive\Escritorio\Tercer Semestre\PROGRAMACION\visualstudiotarea\mysql_empreproduc\mysql_empreproduc\mysql_empreproduc.cpp(29,15): error C3861: 'mysql_store_result': no se encontró el identificador
+C:\Users\cleim\OneDrive\Escritorio\Tercer Semestre\PROGRAMACION\visualstudiotarea\mysql_empreproduc\mysql_empreproduc\mysql_empreproduc.cpp(30,10): error C2065: 'fila': identificador no declarado
+C:\Users\cleim\OneDrive\Escritorio\Tercer Semestre\PROGRAMACION\visualstudiotarea\mysql_empreproduc\mysql_empreproduc\mysql_empreproduc.cpp(30,33): error C2065: 'resultado': identificador no declarado
+C:\Users\cleim\OneDrive\Escritorio\Tercer Semestre\PROGRAMACION\visualstudiotarea\mysql_empreproduc\mysql_empreproduc\mysql_empreproduc.cpp(30,17): error C3861: 'mysql_fetch_row': no se encontró el identificador
+C:\Users\cleim\OneDrive\Escritorio\Tercer Semestre\PROGRAMACION\visualstudiotarea\mysql_empreproduc\mysql_empreproduc\mysql_empreproduc.cpp(31,12): error C2065: 'fila': identificador no declarado
+C:\Users\cleim\OneDrive\Escritorio\Tercer Semestre\PROGRAMACION\visualstudiotarea\mysql_empreproduc\mysql_empreproduc\mysql_empreproduc.cpp(31,30): error C2065: 'fila': identificador no declarado
+  Producto.cpp
+C:\Users\cleim\OneDrive\Escritorio\Tercer Semestre\PROGRAMACION\visualstudiotarea\mysql_empreproduc\mysql_empreproduc\Producto.cpp(1,10): fatal error C1083: No se puede abrir el archivo incluir: 'Producto.h': No such file or directory
